@@ -1,0 +1,43 @@
+*{
+    padding: 0; 
+    margin: 0;
+}
+.container{
+    padding: 165px;
+    text-align: center;
+    background-color: #a99b9b;
+    background-size:contain;
+    
+}
+h1{
+    padding: 20px;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#height{
+    padding: 4px ;
+    margin: 2px;
+    
+}
+#weight{
+    padding: 4px;
+    margin: 2px;
+
+}
+form , p , label{
+    font-size:1.3rem ;
+    padding-bottom: 10px;
+}
+button{
+    padding: 4px;
+    margin: 2px;
+    background: #ded8d8;
+    font-size: 1.3rem;
+}
+#weight-guide{
+    font-size: 20px;
+    padding: 20px;
+}
+h3{
+    padding: 20px;
+}
